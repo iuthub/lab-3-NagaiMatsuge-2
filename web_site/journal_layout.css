@@ -1,0 +1,57 @@
+* *:hover {
+	background-color: yellow;
+}
+#wrapper {
+	background-color: white;
+	border: 10px white solid;
+}
+
+.date {
+	border-bottom-width: 5px;
+	border-bottom-style: dashed;
+}
+
+body {
+	margin-left: 5%;
+	background-image: url("background.gif"); 
+	margin-right: 5%;
+}
+
+.entr {
+	padding: 10px;
+	margin-top: 10px;
+	border: 5px #C2E9E9 solid;
+	background-color: #E8FBFB;
+}
+
+
+#main {
+	text-align: right;
+	background-color: #A8F0F0;
+}
+
+#main h2 {
+	font-size: 15pt;
+}
+
+#controls {
+	float: left;
+	background-color: #99E0E0;
+	width: 150px;
+	margin-top: 10px;
+	border: 5px #009097 solid;
+	padding: 5px;
+}
+
+
+.space {
+	clear: both;
+}
+
+#allentries {
+	margin-left: 200px;
+}
+
+.entr img {
+	float: right;
+}
